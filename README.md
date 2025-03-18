@@ -1,7 +1,8 @@
-Practice Power BI tasks with Synthea data that is a synthetized hospital database. 
+Practice Power BI tasks using Synthea data, a synthesized hospital database.
 Data source: https://synthea.mitre.org/downloads.
-I downloaded csv files database from the website above then get them into Power BI Desktop and do analyzing.
 
+I downloaded the CSV database from the website above, imported it into Power BI Desktop, and performed analysis.
+In this project, I calculate the hospital readmission rate, comparing departments and years. I also analyze hospital stay durations, comparing weekdays and hours
 
 Reference: 30 Healthcare Metrics & KPIs:
 
